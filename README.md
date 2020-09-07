@@ -1,7 +1,7 @@
 <!--
 **latchjack/latchjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Social banner for latch](github_header.svg)](www.latch.dev)
+[![Social banner for latch](./github_header.svg)](www.latch.dev)
 
 <p align='center'>
 <a href="https://twitter.com/latchcodes"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;

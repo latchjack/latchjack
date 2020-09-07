@@ -1,7 +1,7 @@
 <!--
 **latchjack/latchjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Social banner for latch](./github_header.svg)](www.latch.dev)
+<!-- [![Social banner for latch](./github_header.svg)](www.latch.dev) -->
 
 <p align='center'>
 <a href="https://twitter.com/latchcodes"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
@@ -47,7 +47,7 @@ There are two things that I really enjoy doing and they are my main motivators f
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bulma.svg" />
-  <img height="32" width="32" src="reactrouter.svg" />
+  <!-- <img height="32" width="32" src="reactrouter.svg" /> -->
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/insomnia.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
@@ -57,7 +57,7 @@ There are two things that I really enjoy doing and they are my main motivators f
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mapbox.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
-  <img height="32" width="32" src="visualstudio.svg" />
+  <!-- <img height="32" width="32" src="visualstudio.svg" /> -->
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/affinitydesigner.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoffice.svg" />
 </div>

@@ -27,11 +27,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
 
-<br>
+## Stats
 
 [![Latch's github stats](https://github-readme-stats.vercel.app/api?username=latchjack&theme=algolia&show_icons=true&count_private=true&hide=contribs)](https://github.com/latchjack/github-readme-stats)
-
-<br>
 
 ## 💻What am I currently up to?
 

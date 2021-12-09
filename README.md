@@ -27,15 +27,15 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
 
-## Stats
+## 📊 Stats
 
 [![Latch's github stats](https://github-readme-stats.vercel.app/api?username=latchjack&theme=algolia&show_icons=true&count_private=true&hide=contribs)](https://github.com/latchjack/github-readme-stats)
 
-## 💻What am I currently up to?
+## 💻 What am I currently up to?
 
-- Sharpening my JavaScript and React skills.
-
-<br>
+- Sharpening my JavaScript, React and Redux skills.
+- Strengthening my [Cypress](https://www.cypress.io/) knowledge.
+- Diving into creative coding with [Three.js](https://threejs.org/).
 
 ## 😄 When I'm not coding you can find me...
 

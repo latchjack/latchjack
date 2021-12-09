@@ -48,12 +48,12 @@
 
 You can find me via...
 
-[![Keybase](https://img.shields.io/badge/-Keybase-000?&logo=Keybase)](https://keybase.io/latchjack)
+<!-- [![Keybase](https://img.shields.io/badge/-Keybase-000?&logo=Keybase)](https://keybase.io/latchjack) -->
+
 [![Follow me on Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/latchcodes)
 [![Add me on LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/latchjack)
 [![My StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=StackOverflow)](https://stackoverflow.com/users/15048214/latch)
-![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)
-![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=StackOverflow)
+[![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/latchjack)
 
 <sub>"Don't comment bad code - rewrite it" - Brian Kernighan</sub>
 

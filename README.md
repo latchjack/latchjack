@@ -3,96 +3,59 @@
 
 <!-- [![Social banner for latch](./github_header.svg)](www.latch.dev) -->
 
-<p align='center'>
-<a href="https://twitter.com/latchcodes"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
-<a href="https://www.codewars.com/users/latchjack"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/latchjack/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
+# Hey! I'm Latch 👋🏽
 
-</p>
+- I'm a Software Engineer based in London, UK.
+- I currently build software for use in the CyberSecurity industry at [NCC Group](https://www.nccgroup.com/uk/).
+- I love solving problems.
+- I'm an Animation graduate, who's very passionate about great design.
+- I studied at [General Assembly](https://generalassemb.ly/).
+- I love building websites, games and applications (ranging from useful to just plain old fun).
 
-<h1 align='center'> Hi! My name is Latch 👋🏽</h1>
+## 🔨 Technologies and Tools I use
 
-<p align='center'>
-I'm a London-based Junior Developer. I'm an Animation graduate, who most recently studied at General Assembly.
-I love building websites, games and applications (ranging from useful to just plain old fun). I have a strong passion for learning and solving problems.
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-<p align='center'>
-There are two things that I really enjoy doing and they are my main motivators for my development career, making life fun and making it easier. I want to create web-applications and products that help to make people’s lives less complicated. I have a great interest in technologies that help us by automating tasks or making tasks quicker and more efficient.
-</p>
-
-<br>
-
-<h2 align='center'>🔨Technologies and Tools</h2>
-<br>
-<p align='center'>Mainly...</p>
-<div align='center'>
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-</div>
-
-<br>
-
-<p align='center'>but also...</p>
-
-<div align='center'>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bulma.svg" />
-  <!-- <img height="32" width="32" src="reactrouter.svg" /> -->
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/insomnia.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yarn.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webpack.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobe.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mapbox.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/markdown.svg" />
-  <!-- <img height="32" width="32" src="visualstudio.svg" /> -->
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/affinitydesigner.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoffice.svg" />
-</div>
-
-<br>
-
-<h2 align='center'>💻What am I currently up to?</h2>
-
-+ Sharpening my JavaScript and React skills.
-+ Studying Harvard's CS50 online course.
-+ Learning C.
-
-<br>
-
-<h2 align='center'>😄When I'm not coding you can find me</h2>
-
-<div>
-  <ul>
-    <li>Cooking</li>
-    <li>Reading</li>
-    <li>Watching Anime</li>
-    <li>Playing Video Games</li>
-  </ul>
-</div>
-
-<br>
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode)
+![Bash](https://img.shields.io/badge/-GNUBash-000?&logo=GNUBash)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
 
 [![Latch's github stats](https://github-readme-stats.vercel.app/api?username=latchjack&theme=algolia&show_icons=true&count_private=true&hide=contribs)](https://github.com/latchjack/github-readme-stats)
 
 <br>
 
+## 💻What am I currently up to?
 
-[![Follow me on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/latchcodes)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/latchjack)
+- Sharpening my JavaScript and React skills.
 
+<br>
+
+## 😄 When I'm not coding you can find me...
+
+- Cooking
+- Reading
+- Watching Anime
+- Playing Video Games
+
+<br>
+
+You can find me via...
+
+[![Keybase](https://img.shields.io/badge/-Keybase-000?&logo=Keybase)](https://keybase.io/latchjack)
+[![Follow me on Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/latchcodes)
+[![Add me on LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/latchjack)
+[![My StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=StackOverflow)](https://stackoverflow.com/users/15048214/latch)
+![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)
+![StackOverflow](https://img.shields.io/badge/-StackOverflow-000?&logo=StackOverflow)
+
+<sub>"Don't comment bad code - rewrite it" - Brian Kernighan</sub>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

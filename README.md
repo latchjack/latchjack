@@ -45,7 +45,7 @@
 
 <br>
 
-You can find me via...
+You can also find me via...
 
 <!-- [![Keybase](https://img.shields.io/badge/-Keybase-000?&logo=Keybase)](https://keybase.io/latchjack) -->
 

@@ -33,9 +33,8 @@
 
 ## 💻 What am I currently up to?
 
-- Sharpening my JavaScript, React and Redux skills.
-- Strengthening my [Cypress](https://www.cypress.io/) knowledge.
-- Diving into creative coding with [Three.js](https://threejs.org/).
+- Sharpening my TypeScript and React skills.
+- Learning about design patterns.
 
 ## 😄 When I'm not coding you can find me...
 

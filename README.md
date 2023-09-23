@@ -19,12 +19,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode)
-![Bash](https://img.shields.io/badge/-GNUBash-000?&logo=GNUBash)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
+<!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) -->
 
 ## 💻 What am I currently up to?
 

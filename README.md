@@ -6,11 +6,10 @@
 # Hey! I'm Latch 👋🏽
 
 - I'm a Software Engineer based in London, UK.
-- I currently build software for use in the CyberSecurity industry at [NCC Group](https://www.nccgroup.com/uk/).
 - I love solving problems.
+- I currently build software for use in the CyberSecurity industry.
 - I'm an Animation graduate, who's very passionate about great design.
 - I studied at [General Assembly](https://generalassemb.ly/).
-- I love building websites, games and applications (ranging from useful to just plain old fun).
 
 ## 🔨 Technologies and Tools I use
 
@@ -26,10 +25,6 @@
 ![Bash](https://img.shields.io/badge/-GNUBash-000?&logo=GNUBash)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=Insomnia)
-
-## 📊 Stats
-
-[![Latch's github stats](https://github-readme-stats.vercel.app/api?username=latchjack&theme=algolia&show_icons=true&count_private=true&hide=contribs)](https://github.com/latchjack/github-readme-stats)
 
 ## 💻 What am I currently up to?
 

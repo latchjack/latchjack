@@ -3,7 +3,7 @@
 
 <!-- [![Social banner for latch](./github_header.svg)](www.latch.dev) -->
 
-# Hey! I'm Latch 👋🏽
+# Hey! I'm Alex 👋🏽
 
 - I'm a Software Engineer based in London, UK.
 - I love solving problems.

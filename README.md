@@ -1,7 +1,7 @@
 <!--
-**latchjack/latchjack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**alexljack/alexljack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- [![Social banner for latch](./github_header.svg)](www.latch.dev) -->
+<!-- [![Social banner for Alex](./github_header.svg)](www.latch.dev) -->
 
 # Hey! I'm Alex 👋🏽
 
@@ -37,10 +37,10 @@
 
 You can also find me via...
 
-[![Add me on LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/latchjack)
-[![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/latchjack)
+[![Add me on LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/alexljack)
+[![Codewars](https://img.shields.io/badge/-Codewars-000?&logo=Codewars)](https://www.codewars.com/users/alexjack)
 
-<sub>"Don't comment bad code - rewrite it" - Brian Kernighan</sub>
+<sub>"A strong team can take any crazy vision and turn it into reality." - John Carmack</sub>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -48,5 +48,4 @@ You can also find me via...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
